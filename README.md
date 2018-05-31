@@ -26,7 +26,7 @@ The quality of a system’s automaticallygenerated sentences is evaluated using 
 
 |               |   Training    |  Validation   |     Test      |
 | ------------- | ------------- | ------------- | ------------- |
-| # of Dialogs  | Content Cell  | Content Cell  | Content Cell  |
-| # of Turns    | Content Cell  | Content Cell  | Content Cell  |
-| # of Words    | Content Cell  | Content Cell  | Content Cell  |
+| # of Dialogs  |     7043      |      732      |      733      |
+| # of Turns    |    123,480    |     14,680    |     14,660    |
+| # of Words    |    1,163,969  |    138,314    |    138,790    |
 
