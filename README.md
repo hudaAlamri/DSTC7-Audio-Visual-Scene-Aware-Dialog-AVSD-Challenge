@@ -1,5 +1,11 @@
 # DSTC7-Audio-Visual-Scene-Aware-Dialog-AVSD-Challenge
 
+
+
+# -Registeration 
+   Please register: 
+
+
 # - Track Description
 Welcome tothe Audio Visual Scene-Aware Dialog (AVSD) challenge and dataset. This challenge, is one track of the 7th Dialog System Technology Challenges (DSTC7) workshop.
 The task is to build asystem that generates responses in a dialog about an input video.
