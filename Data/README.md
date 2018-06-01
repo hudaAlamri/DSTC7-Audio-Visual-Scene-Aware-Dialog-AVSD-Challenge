@@ -2,7 +2,7 @@
 
 - This text-based human dialog data for video from Charades Dataset (training, testing and validation): http://allenai.org/plato/charades/
 
-#### Relevan files:
+#### - Relevan files:
 
    README.txt   
    license.txt  
@@ -10,9 +10,10 @@
    videoDial_test_v01.json:   Annotations for the testing set.
   
   
-#### Annotations Files format:  
+#### - Annotations Files format:  
 
-{ Id: video identifier - the original charades video Ids.   
+{   
+   Id: video identifier - the original charades video Ids.   
      Script: the human-generated scripts, from Charades dataset.      
      Split: "Train", "Test" 
      {   
