@@ -12,11 +12,10 @@
   
 #### - Annotations Files format:  
 
-{   
-   Id: video identifier - the original charades video Ids.   
-     Script: the human-generated scripts, from Charades dataset.      
-     Split: "Train", "Test" 
-     
+ {   
+     Id: video identifier - the original charades video Ids.   
+        Script: the human-generated scripts, from Charades dataset.      
+        Split: "Train", "Test" 
      {   
        Dial_id: unique identifer for each dialog in the dataset. 
        
@@ -24,8 +23,7 @@
               Question: One of 10 questions in this round of dialog.   
               Answer:   The corresponding answer to AQ_id question.
       }    
-
-}
+}  
 
 
          
