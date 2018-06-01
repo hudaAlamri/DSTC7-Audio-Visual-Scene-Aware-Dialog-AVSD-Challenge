@@ -5,4 +5,7 @@
 - Relevan files:
   README.txt 
   license.txt
+  videoDial_train_v01.json : Annotations for the trainign set.
+  videoDial_test_v01.json:   Annotations for the testing set.
+  
   
