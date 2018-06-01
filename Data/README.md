@@ -1,6 +1,7 @@
 # Audio Video Scene Aware Dialog Dataset V 0.1 
 
 - This text-based human dialog data for video from Charades Dataset (training, testing and validation): http://allenai.org/plato/charades/
+- Each dialog consists of 10 round of questions/answeres. 
 
 #### - Relevan files:
 
@@ -19,6 +20,7 @@
     		-	AQ_id : the order ot the question/answer pair in the dailog. (1-10)     
         -	Question : One of 10 questions in this round of dialog.     
         -	Answer :   The corresponding answer to AQ_id question  
+        - Summary:   A description of the video written by the answerer.  
               
   
 
