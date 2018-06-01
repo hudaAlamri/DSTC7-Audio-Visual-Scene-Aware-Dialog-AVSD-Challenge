@@ -9,3 +9,15 @@
    videoDial_test_v01.json:   Annotations for the testing set.
   
   
+#### Annotations Files format:
+Id: video identifier - the original charades video Ids.  
+    Script: the human-generated scripts, from Charades dataset.  
+    Split: "Train", "Test"
+    Dial_Id: unique identifer for each dialog in the dataset. 
+         Question: 
+         Answer: 
+         AQ_Id: the order ot the question/answer pair in the dailog. (1-10) 
+    
+
+
+
