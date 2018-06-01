@@ -1,4 +1,4 @@
-# Dialog System Technology Challenges 7 (DSTC 7)
+Dialog System Technology Challenges 7 (DSTC 7)
 # Track 3 - Audio Visual Scene-Aware Dialog (AVSD)
 
 # -Registration 
