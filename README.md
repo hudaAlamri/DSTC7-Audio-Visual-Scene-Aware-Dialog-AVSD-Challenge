@@ -3,7 +3,8 @@ Dialog System Technology Challenges 7 (DSTC7) Track 3
 
 ## -Registration 
    Please register:  https://docs.google.com/forms/d/e/1FAIpQLSf4aoCdtLsnFr_AKfp3tnTy4OUCITy5avcEEpUHJ9oZ5ZFvbg/viewform
-
+   
+   (*) The data on the Google drive will be shared with the e-mail address registered at DSTC7.
 
 ## - Track Description
 Welcome to the Audio Visual Scene-Aware Dialog (AVSD) challenge and dataset. This challenge is one track of  the **7th Dialog System Technology Challenges (DSTC7) workshop.**
