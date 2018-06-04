@@ -13,20 +13,25 @@
 #### - Annotations Files format:  
 
      { 
-         "dialogs": [  
-         "image_id" : ""YSE1G", 
-         "summary": "the girl walks into a room with a dog with a towel around her neck . she does some stretches and then drops the towel ",
-         
-         "dialog": [  
-         {  
-               "answer": "there is only one person and a dog .",   
-               "question": "is there only one person ?"  
+     "Dialogs": [  
+         "Image_id" : ""YSE1G", 
+         "Summary": "the girl walks into a room with a dog with a towel around her neck . she does some stretches and then drops the towel ",
+         "Caption": "a person walked through a doorway into the living room with a towel draped around their neck , and closed the door . the person stretched and threw the towel on the floor."  
+         "Dialog": [  
+         {    
+               " Question": "is there only one person ?"
+               " Answer": "there is only one person and a dog .",   
           },   
-          ..
+          {
+                " Question 2": ....
+                " Answer 2": .....
           ..
           ..
           }
-
+                " Question 10": ....
+                " Answer 10": .....
+          } 
+          ] 
     }
 
 
