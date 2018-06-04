@@ -12,10 +12,11 @@
   
 #### - Annotations Files format:  
 
-  { 
-      "dialogs": [  
+     { 
+         "dialogs": [  
          "image_id" : ""YSE1G", 
-         "summary": "the girl walks into a room with a dog with a towel around her neck . she does some stretches and then drops the towel ",   
+         "summary": "the girl walks into a room with a dog with a towel around her neck . she does some stretches and then drops the towel ",
+         
          "dialog": [  
          {  
                "answer": "there is only one person and a dog .",   
