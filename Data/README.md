@@ -12,15 +12,23 @@
   
 #### - Annotations Files format:  
 
-  * Id: video identifier - the original charades video Ids.     
-  * Script: the human-generated scripts, from Charades dataset.        
-  * Split : "Train", "Test"      
-  * Dial_id : unique identifer for each dialog in the dataset.  
-    		-	AQ_id : the order ot the question/answer pair in the dailog. (1-10)     
-        -	Question : One of 10 questions in this round of dialog.     
-        -	Answer :   The corresponding answer to AQ_id question  
-        - Summary:   A description of the video written by the answerer.  
-              
+  { 
+      "dialogs": [  
+         "image_id" : ""YSE1G", 
+         "summary": "the girl walks into a room with a dog with a towel around her neck . she does some stretches and then drops the towel ",   
+         "dialog": [  
+         {  
+               "answer": "there is only one person and a dog .",   
+               "question": "is there only one person ?"  
+          },   
+          ..
+          ..
+          ..
+          }
+
+    }
+
+
   
 
 
