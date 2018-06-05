@@ -41,4 +41,4 @@ The quality of a system’s automatically generated sentences is evaluated using
 
 ### - Contact Information
 
-halamri3@gatech.edu
+halamri3@gatech.edu & chori@merl.com
