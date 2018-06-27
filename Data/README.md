@@ -1,5 +1,9 @@
 # Audio Video Scene Aware Dialog Dataset V 0.1 
 
+There are 3 types of data such as text, audio, visual data. 
+The text data contains the 10 sets of QAs/video  and 5 descriptions/video (now collecting).
+
+## Text data
 - This text-based human dialog data for video from Charades Dataset (training, testing and validation): http://allenai.org/plato/charades/
 - Each dialog consists of 10 round of questions/answeres. 
 
@@ -34,12 +38,17 @@
           ] 
     }
 
-
-  
-
-
-         
+## Audio data
+    Audio features are extracted using the VGGish model.
+      S. Hershey, S. Chaudhuri, D. P. W. Ellis, J. F. Gemmeke, A. Jansen, R. C. Moore, M. Plakal,
+      D. Platt, R. A. Saurous, B. Seybold, M. Slaney, R. J. Weiss, and K. Wilson, “CNN architectures
+      for large-scale audio classification,” in ICASSP, 2017.
     
+    You can download the files from the following link:
 
+## Visual data
+    Visal features are extracted using the I3D model.
+      Joao Carreira and Andrew Zisserman, “Quo vadis, action recognition? a new model and the
+      kinetics dataset,” in CVPR, 2017.
 
-
+    You can download the files from the following link:
