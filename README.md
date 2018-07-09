@@ -19,8 +19,8 @@ https://arxiv.org/abs/1806.00525
          
 ### - Baseline system release
       The system release is scheduled on July 2oth
-      *You can find a setup using the prototype data: 
-                            https://arxiv.org/pdf/1806.08409.pdf
+      *You can find a setup using the prototype data and the given audio and visual features: 
+                            https://arxiv.org/abs/1806.08409
 
 ## - Track Description
 Welcome to the Audio Visual Scene-Aware Dialog (AVSD) challenge and dataset. This challenge is one track of  the **7th Dialog System Technology Challenges (DSTC7) workshop.**
