@@ -12,6 +12,7 @@ https://arxiv.org/abs/1806.00525
 
 ### - Data release
    Prototype datasets: 6172(training), 732(validation), 733(test)
+   https://drive.google.com/drive/u/2/folders/1JGE4eeelA0QBA7BwYvj89kSClE3f9k65
    
          - QA text dataset release      
          - Audio features: VGGish 
@@ -20,7 +21,7 @@ https://arxiv.org/abs/1806.00525
 ### - Baseline system release
       The system release is scheduled on July 2oth
       *You can find a setup using the prototype data and the given audio and visual features: 
-                            https://arxiv.org/abs/1806.08409
+                        <https://arxiv.org/abs/1806.08409>
 
 ## - Track Description
 Welcome to the Audio Visual Scene-Aware Dialog (AVSD) challenge and dataset. This challenge is one track of  the **7th Dialog System Technology Challenges (DSTC7) workshop.**
