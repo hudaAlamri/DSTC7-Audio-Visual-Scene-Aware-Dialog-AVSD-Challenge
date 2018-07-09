@@ -20,7 +20,7 @@ https://arxiv.org/abs/1806.00525
          
 ### - Baseline system release
       The system release is scheduled on July 2oth
-      *You can find a setup using the prototype data and the given audio and visual features: 
+      *You can find a setup using the prototype data and the released audio and visual features: 
                         <https://arxiv.org/abs/1806.08409>
 
 ## - Track Description
