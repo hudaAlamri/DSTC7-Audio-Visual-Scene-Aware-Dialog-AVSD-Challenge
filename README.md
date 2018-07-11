@@ -19,10 +19,10 @@ https://arxiv.org/abs/1806.00525
          - Visual features: I3D 
          
 ### - Baseline system release
-      The system release is scheduled on July 2oth
+      The system release is scheduled on July 20th
       *You can find a setup using the prototype data and the released audio and visual features: 
-                        
-                        https://arxiv.org/abs/1806.08409
+      https://arxiv.org/abs/1806.08409
+      
 
 ## - Track Description
 Welcome to the Audio Visual Scene-Aware Dialog (AVSD) challenge and dataset. This challenge is one track of  the **7th Dialog System Technology Challenges (DSTC7) workshop.**
