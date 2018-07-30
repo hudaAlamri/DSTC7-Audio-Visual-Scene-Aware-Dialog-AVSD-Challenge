@@ -20,12 +20,12 @@ copy
 
 The following results were obtained by using i3d_rgb+i3d_flow
   
-| ------  | -------|
-| METRIC  | RESULT |
-| CIDEr   |  0.572 |      
-| Bleu_4  |  0.052 |     
-| Bleu_3  |  0.075 |    
-| Bleu_2  |  0.114 |
-| Bleu_1  |  0.193 |
-| ROUGE_L |  0.240 |
-| METEOR  |  0.093 |
+| ------  | -------|  
+| METRIC  | RESULT |  
+| CIDEr   |  0.572 |        
+| Bleu_4  |  0.052 |   
+| Bleu_3  |  0.075 |     
+| Bleu_2  |  0.114 |  
+| Bleu_1  |  0.193 |  
+| ROUGE_L |  0.240 |  
+| METEOR  |  0.093 |  
