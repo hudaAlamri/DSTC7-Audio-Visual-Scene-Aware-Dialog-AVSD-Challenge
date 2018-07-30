@@ -1,0 +1,11 @@
+--- utils/coco-caption/pycocoevalcap/tokenizer/ptbtokenizer.py	2017-01-12 11:35:13.793667005 -0500
++++ utils/coco-caption/pycocoevalcap/tokenizer/ptbtokenizer.py.fixed	2017-01-12 11:30:46.369659965 -0500
+@@ -34,7 +34,7 @@
+         # ======================================================
+         final_tokenized_captions_for_image = {}
+         image_id = [k for k, v in captions_for_image.items() for _ in range(len(v))]
+-        sentences = '\n'.join([c['caption'].replace('\n', ' ') for k, v in captions_for_image.items() for c in v])
++        sentences = ('\n'.join([c['caption'].replace('\n', ' ') for k, v in captions_for_image.items() for c in v])).encode('utf-8')
+ 
+         # ======================================================
+         # save sentences to temporary file
