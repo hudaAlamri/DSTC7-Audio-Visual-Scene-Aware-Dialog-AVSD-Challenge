@@ -19,9 +19,10 @@ copy
 # Result:
 
 The following results were obtained by using i3d_rgb+i3d_flow
-  
+ 
+ 
 | ------  | -------|  
-| METRIC  | RESULT |  
+| METRIC  | RESULT |    
 | CIDEr   |  0.572 |        
 | Bleu_4  |  0.052 |   
 | Bleu_3  |  0.075 |     
