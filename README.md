@@ -14,7 +14,7 @@ https://arxiv.org/abs/1806.00525
    Prototype datasets: 6172(training), 732(validation), 733(test)
    https://drive.google.com/drive/u/2/folders/1JGE4eeelA0QBA7BwYvj89kSClE3f9k65
    
-         - QA text dataset release      
+         - text dataset: 10 QAs + 1 summary       
          - Audio features: VGGish 
          - Visual features: I3D 
          
