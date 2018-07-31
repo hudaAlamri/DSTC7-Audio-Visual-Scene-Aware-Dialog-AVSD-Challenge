@@ -1,7 +1,12 @@
 # Audio Video Scene Aware Dialog Dataset V 0.1 
 
 There are 3 types of data such as text, audio, visual data. 
+
 The text data contains the 10 sets of QAs/video  and 5 descriptions/video (now collecting).
+
+You can get the data from the following site:
+
+https://drive.google.com/drive/u/2/folders/1JGE4eeelA0QBA7BwYvj89kSClE3f9k65
 
 ## Text data
 - This text-based human dialog data for video from Charades Dataset (training, testing and validation): http://allenai.org/plato/charades/
