@@ -12,6 +12,7 @@ https://arxiv.org/abs/1806.00525
 
 ### - Data release
    Video dat: CHARADES for uman action recognition datasets
+   
    https://allenai.org/plato/charades/
 
    Prototype datasets: 6172(training), 732(validation), 733(test)
