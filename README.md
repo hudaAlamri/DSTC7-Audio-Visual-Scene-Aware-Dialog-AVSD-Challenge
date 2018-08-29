@@ -21,6 +21,7 @@ https://arxiv.org/abs/1806.00525
          - text dataset: 10 QAs + 1 summary       
          - Audio features: VGGish 
          - Visual features: I3D 
+          * You can use your own audio and visual features extracted using publicly available tools and models.
          
 ### - Baseline system release
       The system release is scheduled on July 20th
