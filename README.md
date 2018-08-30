@@ -1,10 +1,15 @@
 Dialog System Technology Challenges 7 (DSTC7) Track 3
 # Audio Visual Scene-Aware Dialog (AVSD)
 Track description paper: Pease cite this paper if you will use the shared data sets.
-
 https://arxiv.org/abs/1806.00525  
 
 ## News:
+
+### - System submission deadline is changed.
+      http://workshop.colips.org/dstc7/dates.html
+      
+      The submission can be done from Sep 24th to Oct 1st from the following link:
+      Submission URL: Not opne yet
 
 ### - Registration 
    Please register:  https://docs.google.com/forms/d/e/1FAIpQLSf4aoCdtLsnFr_AKfp3tnTy4OUCITy5avcEEpUHJ9oZ5ZFvbg/viewform  
