@@ -9,7 +9,7 @@ https://arxiv.org/abs/1806.00525
       http://workshop.colips.org/dstc7/dates.html
       
       The submission can be done from Sep 24th to Oct 1st from the following link:
-      Submission URL: Not opne yet
+             Submission URL: Not open yet
 
 ### - Registration 
    Please register:  https://docs.google.com/forms/d/e/1FAIpQLSf4aoCdtLsnFr_AKfp3tnTy4OUCITy5avcEEpUHJ9oZ5ZFvbg/viewform  
