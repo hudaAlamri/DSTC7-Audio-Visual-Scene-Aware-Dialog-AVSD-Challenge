@@ -6,13 +6,14 @@ https://arxiv.org/abs/1806.00525
 ## News:
 
 
-### - Official data set released
+### - Official data set is released
     https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
 
     The data format of the output should be the same as the given test set file in the shared directory:
          test_set4DSTC7-AVSD.json
 
     Please fill your answers into "__UNDISCLOSED__"  below:
+
       -----------------------------------------------------------------------------------------------------------
       "dialog" : [
                   {
