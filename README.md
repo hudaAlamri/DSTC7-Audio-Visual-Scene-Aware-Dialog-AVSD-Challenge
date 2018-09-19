@@ -11,20 +11,19 @@ https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sha
 
 The data format of the output should be the same as the given test set file in the shared directory:
 test_set4DSTC7-AVSD.json
-
 Please fill your answers into "__UNDISCLOSED__"  below:
------------------------------------------------------------------------------------------------------------
-"dialog" : [
-            {
-               "answer" : "no and it is a window that he is standing in front of .",
-               "question" : "hello . did someone come to the door ?"
-            },
-            {
-               "answer" : "__UNDISCLOSED__",
-               "question" : "is he looking at something outside the window ?"
-            }
-         ]
-----------------------------------------------------------------------------------------------------------
+      -----------------------------------------------------------------------------------------------------------
+      "dialog" : [
+                  {
+                     "answer" : "no and it is a window that he is standing in front of .",
+                     "question" : "hello . did someone come to the door ?"
+                  },
+                  {
+                     "answer" : "__UNDISCLOSED__",
+                     "question" : "is he looking at something outside the window ?"
+                  }
+               ]
+      ----------------------------------------------------------------------------------------------------------
 
 ### - System submission deadline is changed.
       http://workshop.colips.org/dstc7/dates.html
