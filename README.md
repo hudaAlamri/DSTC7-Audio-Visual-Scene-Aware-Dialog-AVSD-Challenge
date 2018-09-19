@@ -6,7 +6,7 @@ https://arxiv.org/abs/1806.00525
 ## News:
 
 
-###　- Official data set released
+### - Official data set released
 
 
 ### - System submission deadline is changed.
