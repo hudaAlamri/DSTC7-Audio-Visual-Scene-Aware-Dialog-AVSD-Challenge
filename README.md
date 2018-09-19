@@ -30,7 +30,7 @@ https://arxiv.org/abs/1806.00525
 ### - System submission deadline is changed.
       http://workshop.colips.org/dstc7/dates.html
       
-      The submission can be done from Sep 24th to Oct 1st from the following link:
+      The submission can be done from Sep 24th to Oct 8th from the following link:
              Submission URL: Not open yet
 
 ### - Registration 
