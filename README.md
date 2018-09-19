@@ -13,7 +13,7 @@ https://arxiv.org/abs/1806.00525
   
       test_set4DSTC7-AVSD.json
   
-  Please fill your answers into "__UNDISCLOSED__"  below:
+  Please fill your answers into `__UNDISCLOSED__`  below:
 
       -----------------------------------------------------------------------------------------------------------
       "dialog" : [
