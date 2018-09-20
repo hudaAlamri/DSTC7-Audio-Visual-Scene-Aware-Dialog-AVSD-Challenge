@@ -5,6 +5,9 @@ https://arxiv.org/abs/1806.00525
 
 ## News:
 
+### - Dat use policy
+      1. Who will submit system reulsts and system description papers: Publish results anywhere as DSTC7 participants
+      2. Who will not submit results or system description papers: Wait using the data until the data will be publicly available
 
 ### - Official data set is released
   https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
