@@ -8,8 +8,10 @@ https://arxiv.org/abs/1806.00525
 ### - Data use policy
       1. Registrant will submit system results and system description papers: 
          Publish results anywhere as DSTC7 participants
+         
       2. Registrant will not submit results or system description papers:
-         Please Wait using the data until the data will be publicly available
+         Please wait using the data until it will be publicly available
+         
       3. Others:
          Currently, you cannot access the data.
          Please wait until the data will be open.
