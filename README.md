@@ -6,8 +6,8 @@ https://arxiv.org/abs/1806.00525
 ## News:
 
 ### - New baseline system 
-      Please go to the following link to get the new baseline system:
-            https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
+Please go to the following link to get the new baseline system:
+https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog            
 
 ### - Data use policy
       1. Registrant will submit system results and system description papers: 
