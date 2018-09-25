@@ -29,6 +29,8 @@ https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
       val_set4DSTC7-AVSD.json
       test_set4DSTC7-AVSD.json
   
+  The original videos of the test sets of the official Charades Challenge
+   
   Please fill your answers into `__UNDISCLOSED__`  below:
 
       -----------------------------------------------------------------------------------------------------------
