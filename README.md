@@ -108,9 +108,9 @@ The quality of a system’s automatically generated sentences is evaluated using
 | # of Turns    |    123,480    |     14,680    |     14,660    |
 | # of Words    |    1,163,969  |    138,314    |    138,790    |
 
-      The prototype training data is part of the training data.
-      The prototype validation data is half of the officila validation data.
-      The prototyp test data is the rest of the official validation set.
+      The training data is part of the training data.
+      The validation data is half of the officila validation data.
+      The test data is the rest of the official validation data.
 
 #### Official data set:
 The number of turs for the test set is smaller than the validation
