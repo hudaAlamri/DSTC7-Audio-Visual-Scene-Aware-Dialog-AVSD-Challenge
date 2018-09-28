@@ -58,7 +58,7 @@ https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
    Please let us share the data with you using your registered e-mail.
 
 ### - Data release
-   Video dat: CHARADES for uman action recognition datasets
+   Video dat: CHARADES for human action recognition datasets.
    
    https://allenai.org/plato/charades/
 
@@ -113,7 +113,7 @@ The quality of a system’s automatically generated sentences is evaluated using
       The test data is the rest of the official validation data.
 
 #### Official data set:
-The number of turs for the test set is smaller than the validation
+The number of tunrs for the test set is smaller than the validation
 because they are not always full dialogs.
 
 |               |    Training    |  Validation   |     Test      |
