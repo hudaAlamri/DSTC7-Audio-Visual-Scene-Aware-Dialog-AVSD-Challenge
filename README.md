@@ -5,6 +5,14 @@ https://arxiv.org/abs/1806.00525
 
 ## News:
 
+### - Submission site  
+Now submission site is open. 
+
+      The data format is the same as test_set4DSTC7-AVSD.json.
+      Please replase __UNDISCLOSED__ with your generated answers.
+
+https://docs.google.com/forms/d/e/1FAIpQLSd5DssD8hjrLI77oUPijVheX8RQTJGjXJYH78UJF2Le-lxXLw/viewform
+
 ### - New baseline system 
 Please go to the following link to get the new baseline system:
 https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog            
