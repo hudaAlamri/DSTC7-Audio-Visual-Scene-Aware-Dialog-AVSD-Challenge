@@ -9,7 +9,7 @@ https://arxiv.org/abs/1806.00525
 Now the submission site is open. 
 
       The data format is the same as test_set4DSTC7-AVSD.json.
-      Please replase __UNDISCLOSED__ with your generated answers.
+      Please replace __UNDISCLOSED__ with your generated answers.
 
 https://docs.google.com/forms/d/e/1FAIpQLSd5DssD8hjrLI77oUPijVheX8RQTJGjXJYH78UJF2Le-lxXLw/viewform
 
