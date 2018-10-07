@@ -5,6 +5,12 @@ https://arxiv.org/abs/1806.00525
 
 ## News:
 
+### - New submission deadline: Oct. 15th
+
+The official submission site had problems to upload files.
+The problems were fixed now. 
+Let us extend the submission deadline to * Oct. 15th *
+
 ### - Submission site  
 Now the submission site is open. 
 
