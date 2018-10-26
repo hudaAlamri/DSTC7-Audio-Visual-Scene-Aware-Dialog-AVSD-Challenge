@@ -35,7 +35,7 @@ https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
          Please wait until the data will be open.
 
 ### - Official data set is released
-  https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
+  *DSTC7 is ongoing and the data is not publicly available now.
     
   The data format of the output should be the same as the given test set file in the shared directory:
   
@@ -77,7 +77,8 @@ https://github.com/dialogtekgeek/AudioVisualSceneAwareDialog
    https://allenai.org/plato/charades/
 
    Prototype datasets: 6172(training), 732(validation), 733(test)
-   https://drive.google.com/drive/u/2/folders/1JGE4eeelA0QBA7BwYvj89kSClE3f9k65
+   *DSTC7 is ongoing and the data is not publicly available now.
+  
    
          - text dataset: 10 QAs + 1 summary       
          - Audio features: VGGish 
