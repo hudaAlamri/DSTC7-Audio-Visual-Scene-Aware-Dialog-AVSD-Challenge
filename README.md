@@ -1,7 +1,13 @@
 Dialog System Technology Challenges 7 (DSTC7) Track 3
 # Audio Visual Scene-Aware Dialog (AVSD)
 Track description paper: Pease cite this paper if you will use the shared data sets.
-https://arxiv.org/abs/1806.00525  
+
+      @proceedings{alamri@DSTC7,
+                  title={Audio Visual Scene-aware dialog (AVSD) Track for Natural Language Generation in DSTC7},
+                  author={Alamri, Huda and Hori, Chiori and Marks, Tim K and Batra, Dhruv and Parikh, Devi},
+                  booktitle={DSTC7 at AAAI2019 Workshop},
+                  year={2018}
+      }
 
 ## News:
 
