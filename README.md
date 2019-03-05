@@ -6,7 +6,6 @@ Track description paper: Pease cite this paper if you will use the shared data s
       @inproceedings{alamri2019audiovisual,
                   title={Audio-Visual Scene-Aware Dialog},
                   author={Huda Alamri and Vincent Cartillier and Abhishek Das and Jue Wang and Stefan Lee and Peter Anderson                    and Irfan Essa and Devi Parikh and Dhruv Batra and Anoop Cherian and Tim K. Marks and Chiori Hori},
-                  year={2019},
                   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
                   year={2019}
       }
