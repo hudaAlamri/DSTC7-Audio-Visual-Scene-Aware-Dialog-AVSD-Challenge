@@ -2,13 +2,14 @@ Dialog System Technology Challenges 7 (DSTC7) Track 3
 # Audio Visual Scene-Aware Dialog (AVSD)
 Track description paper: Pease cite this paper if you will use the shared data sets.
 
-      @inproceedings{alamri@DSTC7,
-                  title={Audio Visual Scene-aware dialog (AVSD) Track for Natural Language Generation in DSTC7},
-                  author={Huda Alamri and Chiori Hori and Tim K. Marks and Dhruv Batra and Devi Parikh},
-                  booktitle={DSTC7 at AAAI2019 Workshop},
-                  year={2018}
+   
+      @inproceedings{alamri2019audiovisual,
+                  title={Audio-Visual Scene-Aware Dialog},
+                  author={Huda Alamri and Vincent Cartillier and Abhishek Das and Jue Wang and Stefan Lee and Peter Anderson                    and Irfan Essa and Devi Parikh and Dhruv Batra and Anoop Cherian and Tim K. Marks and Chiori Hori},
+                  year={2019},
+                  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+                  year={2019}
       }
-
 ## News:
 
 ### - New submission deadline: Oct. 15th
