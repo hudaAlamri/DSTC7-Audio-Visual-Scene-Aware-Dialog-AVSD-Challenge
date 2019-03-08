@@ -11,6 +11,8 @@ Track description paper: Pease cite this paper if you will use the shared data s
       }
 ## News:
 
+### - Data will be publicly available: April. 1st, 2019
+
 ### - New submission deadline: Oct. 15th
 
 The official submission site had problems to upload files.
