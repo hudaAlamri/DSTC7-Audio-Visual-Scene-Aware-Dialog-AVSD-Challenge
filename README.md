@@ -13,6 +13,9 @@ Track description paper: Pease cite this paper if you will use the shared data s
 
 ### - Data will be publicly available: April. 1st, 2019
 
+You can donwload the full oficial data set and the refereces for AVSD@DSTC7 from here:
+https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing
+
 ### - New submission deadline: Oct. 15th
 
 The official submission site had problems to upload files.
