@@ -10,7 +10,8 @@ Track description paper: Pease cite this paper if you will use the shared data s
                   year={2019}
       }
       
-# AVSD sentence generationb task for DSTC7 Challenge descriptin paper:
+# AVSD sentence generationb task for DSTC7 Challenge descriptin paper
+
 AVSD@DSTC7 Challenge decription paper:
 http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
