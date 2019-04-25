@@ -1,7 +1,7 @@
 Dialog System Technology Challenges 7 (DSTC7) Track 3: Sentence generation task
 
-# Data collection description for Audio Visual Scene-Aware Dialog (AVSD)
-Track description paper: Pease cite this paper if you will use the shared data sets.
+# Audio Visual Scene-Aware Dialog (AVSD)
+Data collection description paper: Pease cite this paper if you will use the shared data sets.
    
       @inproceedings{alamri2019audiovisual,
                   title={Audio-Visual Scene-Aware Dialog},
