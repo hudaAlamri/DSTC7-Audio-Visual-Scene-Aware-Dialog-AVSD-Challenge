@@ -1,4 +1,4 @@
-# Dialog System Technology Challenges 7 (DSTC7) Track 3: Sentence generation task
+# DSTC7 Track 3: Audio Visual Scene-aware Dialog (AVSD) Challenge 
 
 ## Challenge overviw paper for AVSD@DSTC7 Challenge for NLG
 
