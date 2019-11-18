@@ -15,7 +15,7 @@ http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
 You can dowload the AVSD@DSTC7 challenge setup from the following site: 
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing      
-
+https://drive.google.com/open?id=1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q
 
 ## Data collection description paper for AVSD
 Please cite this paper if you will use the shared data sets.
