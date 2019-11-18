@@ -6,18 +6,17 @@ AVSD@DSTC7 Challenge overview paper: Please cite this paper, if you will the cha
 
 http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
-@inproceedings{AVSD@DSTC7,
-title = {Audio Visual Scene-aware dialog ({AVSD}) Track for Natural Language Generation in {DSTC7}},
-author = {Alamri, Huda and Hori, Chiori and  Marks, Tim K and Batra, Dhruv and Parikh, Devi},
-booktitle = {AAAI workshop on the 7th edition of Dialog System Technology Challenge (DSTC7)},
-month = jan,
-year = {2019}
-}
+         @inproceedings{AVSD@DSTC7,
+         title = {Audio Visual Scene-aware dialog ({AVSD}) Track for Natural Language Generation in {DSTC7}},
+         author = {Alamri, Huda and Hori, Chiori and  Marks, Tim K and Batra, Dhruv and Parikh, Devi},
+         booktitle = {AAAI workshop on the 7th edition of Dialog System Technology Challenge (DSTC7)},
+         month = jan,
+         year = {2019}
+         }
 
-```
-AVSD@DSTC7 challenge data set for Natual Language Generation (NLG): 
+You can dowload the AVSD@DSTC7 challenge setup from the following site: 
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing      
-```
+
 
 # Data collection paper for Audio Visual Scene-Aware Dialog (AVSD)
 Data collection description paper: Please cite this paper if you will use the shared data sets.
