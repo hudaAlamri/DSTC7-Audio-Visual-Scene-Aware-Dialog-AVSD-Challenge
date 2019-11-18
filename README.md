@@ -1,9 +1,8 @@
-# DSTC7 Track 3: Audio Visual Scene-aware Dialog (AVSD) Challenge 
+# DSTC7 Track 3: Audio Visual Scene-aware Dialog (AVSD) Challenge for NLG
 
-## Challenge overviw paper for AVSD@DSTC7 Challenge for NLG
+## Challenge overviw paper for AVSD@DSTC7
 
 AVSD@DSTC7 Challenge overview paper: Please cite this paper, if you will use the challenge setup for AVSD@DSTC7.
-
 http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
          @inproceedings{AVSD@DSTC7,
