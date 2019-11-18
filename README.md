@@ -1,6 +1,6 @@
 Dialog System Technology Challenges 7 (DSTC7) Track 3: Sentence generation task
 
-# Challenge over viw paper for AVSD sentence generation task for DSTC7 Challenge
+# Challenge overviw paper for AVSD@DSTC7 Challenge for NLG
 
 AVSD@DSTC7 Challenge overview paper: Please cite this paper, if you will the challenge setup for AVSD@DSTC7.
 
