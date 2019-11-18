@@ -1,6 +1,6 @@
-Dialog System Technology Challenges 7 (DSTC7) Track 3: Sentence generation task
+# Dialog System Technology Challenges 7 (DSTC7) Track 3: Sentence generation task
 
-# Challenge overviw paper for AVSD@DSTC7 Challenge for NLG
+## Challenge overviw paper for AVSD@DSTC7 Challenge for NLG
 
 AVSD@DSTC7 Challenge overview paper: Please cite this paper, if you will use the challenge setup for AVSD@DSTC7.
 
@@ -18,7 +18,7 @@ You can dowload the AVSD@DSTC7 challenge setup from the following site:
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing      
 
 
-# Data collection description paper for AVSD
+## Data collection description paper for AVSD
 Please cite this paper if you will use the shared data sets.
    
       @inproceedings{alamri2019audiovisual,
