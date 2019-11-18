@@ -2,7 +2,7 @@ Dialog System Technology Challenges 7 (DSTC7) Track 3: Sentence generation task
 
 # Challenge overviw paper for AVSD@DSTC7 Challenge for NLG
 
-AVSD@DSTC7 Challenge overview paper: Please cite this paper, if you will the challenge setup for AVSD@DSTC7.
+AVSD@DSTC7 Challenge overview paper: Please cite this paper, if you will use the challenge setup for AVSD@DSTC7.
 
 http://workshop.colips.org/dstc7/papers/DSTC7_Task_3_overview_paper.pdf
 
@@ -18,8 +18,8 @@ You can dowload the AVSD@DSTC7 challenge setup from the following site:
 https://drive.google.com/drive/folders/1SlZTySJAk_2tiMG5F8ivxCfOl_OWwd_Q?usp=sharing      
 
 
-# Data collection paper for Audio Visual Scene-Aware Dialog (AVSD)
-Data collection description paper: Please cite this paper if you will use the shared data sets.
+# Data collection description paper for AVSD
+Please cite this paper if you will use the shared data sets.
    
       @inproceedings{alamri2019audiovisual,
                   title={Audio-Visual Scene-Aware Dialog},
