@@ -28,6 +28,10 @@ Please cite this paper if you will use the shared data sets.
 
 ## News:
 
+
+
+
+
 ### - Data will be publicly available: April. 1st, 2019
 
 You can donwload the full oficial data set and the refereces for AVSD@DSTC7 from here:
